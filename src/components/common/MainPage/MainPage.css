@@ -1,0 +1,9 @@
+.app-heading {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    color: #333;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
